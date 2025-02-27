@@ -1,0 +1,642 @@
+{
+  "structures_sanitaires": [
+    {
+      "region": "RÉGION ADMINISTRATIVE DE CONAKRY",
+      "commune": "COMMUNE DE DIXINN",
+      "nom": "Hopital National Donka",
+      "type": "Hôpital",
+      "responsable": "Mme Fatoumata Batouly BAH",
+      "contact": "610 00 36 37",
+      "email": "communication@hndonka.com",
+      "points_focaux": [
+        { "nom": "DIALLO KADIATOU BOBO", "contact": "628 78 20 32", "flotte": "613.00.38.01" },
+        { "nom": "ZOKOPE DORE", "contact": "621 89 59 94", "flotte": "613.00.38.01" }
+      ]
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE CONAKRY",
+      "commune": "COMMUNE DE DIXINN",
+      "nom": "Biomar-24",
+      "type": "Laboratoire biomédical",
+      "responsable": "M. Mamadou Chérif BAH",
+      "contact": "621 20 20 02",
+      "email": "kambanya3001@gmail.com",
+      "points_focaux": []
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE CONAKRY",
+      "commune": "COMMUNE DE DIXINN",
+      "nom": "Centre National d'Orthopédie de Donka",
+      "type": "Centre d'Orthopédie",
+      "responsable": "Dr Ousmane Abdel FOFANA",
+      "contact": "622 51 79 47",
+      "email": "fofousmane74@gmail.com",
+      "points_focaux": []
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE CONAKRY",
+      "commune": "COMMUNE DE DIXINN",
+      "nom": "CMC de la Minière",
+      "type": "CMC",
+      "responsable": "Dr SOW Boubacar Thierno",
+      "contact": "628 35 90 62",
+      "email": "sboubath68@gmail.com",
+      "points_focaux": [
+        { "nom": "SANO NANFADIMA", "contact": "623 61 01 83", "flotte": "613.00.38.04" },
+        { "nom": "BANGOURA BANGALY", "contact": "621 47 70 83", "flotte": "613.00.38.04" }
+      ]
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE CONAKRY",
+      "commune": "COMMUNE DE MATOTO",
+      "nom": "Nouvelle Clinique de Gbéssia",
+      "type": "Centre d'Hémodialyse Privé",
+      "responsable": "Dr Damaris LENO",
+      "contact": "626 56 03 07",
+      "email": "cliniquenouvelle84@gmail.com",
+      "points_focaux": []
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE CONAKRY",
+      "commune": "COMMUNE DE MATOTO",
+      "nom": "Centre Medico chirurgical Matoto",
+      "type": "Clinique Privée - ORL",
+      "responsable": "Pr Alpha Oumar DIALLO",
+      "contact": ["621 34 34 60", "611 34 34 60"],
+      "email": "dalphao@hotmail.com",
+      "points_focaux": []
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE CONAKRY",
+      "commune": "COMMUNE DE MATOTO",
+      "nom": "Hôpital Régional Enta Nord",
+      "type": "Hôpital Régional",
+      "responsable": "Dr Lansana KOUROUMA",
+      "contact": "622 21 24 21",
+      "email": "kouroumalansana2012@gmail.com",
+      "points_focaux": [
+        { "nom": "CAMARA M'MAH NABY", "contact": "626 74 13 08", "flotte": "613.00.38.06" },
+        { "nom": "BEAVOGUI OUA MAMADI", "contact": "621 88 15 83", "flotte": "613.00.38.06" }
+      ]
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE CONAKRY",
+      "commune": "COMMUNE DE KALOUM",
+      "nom": "Hopital National Ignace Deen",
+      "type": "Hôpital",
+      "responsable": "M. Mamady FOFANA",
+      "contact": "622 29 06 97",
+      "email": "fofanaelhadjidiakamady@gmail.com",
+      "points_focaux": [
+        { "nom": "CAMARA MOHAMED LAMINE YANKA", "contact": "623 44 62 66", "flotte": "613.00.38.09" },
+        { "nom": "SIDIBE HAWA", "contact": "628 77 81 89", "flotte": "613.00.38.09" }
+      ]
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE CONAKRY",
+      "commune": "COMMUNE DE KALOUM",
+      "nom": "Cabinet Medical d'Ophtalmologie Dr DIANE",
+      "type": "Clinique Privée",
+      "responsable": "Dr Mohamed Habib DIANE",
+      "contact": ["626 19 19 19", "662 19 19 19"],
+      "email": "ophtalmoguinee@ymail.com",
+      "points_focaux": []
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE CONAKRY",
+      "commune": "COMMUNE DE KALOUM",
+      "nom": "Guinée Assistance Médicale GAM",
+      "type": "Centre de Diagnostic",
+      "responsable": "M. Bangaly KANTE",
+      "contact": "628 65 69 54",
+      "email": "banbkante@gmail.com",
+      "points_focaux": []
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE CONAKRY",
+      "commune": "COMMUNE DE RATOMA",
+      "nom": "Clinique des Specialistes Perchin",
+      "type": "Clinique Privée",
+      "responsable": "Pr Oumar Raphiou BAH",
+      "contact": "622 17 28 31",
+      "email": "csperchin@gmail.com",
+      "points_focaux": []
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE CONAKRY",
+      "commune": "COMMUNE DE RATOMA",
+      "nom": "Medisar Polyclinique",
+      "type": "Clinique Privée",
+      "responsable": "Pr Bangaly TRAORE",
+      "contact": "620 32 13 49",
+      "email": "centredecancerologie@gmail.com",
+      "points_focaux": []
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE CONAKRY",
+      "commune": "COMMUNE DE RATOMA",
+      "nom": "Hôpital de l'Amitié sino-guinéenne",
+      "type": "Hôpital",
+      "responsable": "M. Amara KEITA",
+      "contact": "621 08 88 67",
+      "email": ["saf@hasigui.gov.gn", "keithams2994@gmail.com"],
+      "points_focaux": [
+        { "nom": "SYLLA MOHAMED", "contact": "625 72 39 55", "flotte": "613.00.38.08" },
+        { "nom": "FABOUMY GABY CHRYSTELLE OMONOKE", "contact": "624 29 92 63", "flotte": "613.00.38.08" }
+      ]
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE CONAKRY",
+      "commune": "COMMUNE DE RATOMA",
+      "nom": "CMC de Ratoma",
+      "type": "CMC",
+      "responsable": "Dr Fodé KABA",
+      "contact": "622 39 87 48",
+      "email": "fodekaba1978@gmail.com",
+      "points_focaux": [
+        { "nom": "DIALLO KADIATOU BOBO", "contact": "628 78 20 32", "flotte": "613.00.38.01" },
+        { "nom": "ZOKOPE DORE", "contact": "621 89 59 94", "flotte": "613.00.38.01" }
+      ]
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE CONAKRY",
+      "commune": "COMMUNE DE RATOMA",
+      "nom": "CMC Flamboyant",
+      "type": "CMC",
+      "responsable": "Dr Siba Kanagaly Dopavogui",
+      "contact": "628 08 73 90",
+      "email": "kanagaly69@gmail.com",
+      "points_focaux": [
+        { "nom": "COUMBASSA DJEBEL", "contact": "624 88 27 27", "flotte": "613.00.38.03" },
+        { "nom": "CAMARA MORY", "contact": "621 24 52 38", "flotte": "613.00.38.03" }
+      ]
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE CONAKRY",
+      "commune": "COMMUNE DE MATAM",
+      "nom": "Clinique Bel-Air (CIBA)",
+      "type": "Clinique Privée",
+      "responsable": "Mme Fatoumata BANGOURA",
+      "contact": "622 93 86 75",
+      "email": "bigciba@yahoo.fr",
+      "points_focaux": [
+        { "nom": "BAH OUMOU KALÉ", "contact": "620 51 51 68", "flotte": "613.00.38.10" },
+        { "nom": "CAMARA N'FAMOUSSA", "contact": "620 23 05 27", "flotte": "613.00.38.10" }
+      ]
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE CONAKRY",
+      "commune": "COMMUNE DE MATAM",
+      "nom": "Polyclinique Mariame d'Orthopédie-Traumatologie",
+      "type": "Clinique Privée",
+      "responsable": "Pr Mohamed Lamine BAH",
+      "contact": "622 42 86 43",
+      "email": "bahmlamine68@gmail.com",
+      "points_focaux": []
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE CONAKRY",
+      "commune": "COMMUNE DE MATAM",
+      "nom": "CMC de Coléah",
+      "type": "CMC",
+      "responsable": "Dr Doussou TOURE",
+      "contact": "628 29 71 39",
+      "email": "madoussougui63@gmail.com",
+      "points_focaux": [
+        { "nom": "CAMARA BOUNTOURABY DEKAZI", "contact": "621 86 01 74", "flotte": "613.00.38.02" }
+      ]
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE CONAKRY",
+      "commune": "COMMUNE DE MATAM",
+      "nom": "CMC de Matam",
+      "type": "CMC",
+      "responsable": "Dr Boubacar KANTE",
+      "contact": "628 57 18 19",
+      "email": "kantboubacar83@gmail.com",
+      "points_focaux": [
+        { "nom": "BANGOURA JOSEPHINE", "contact": "620 08 42 92", "flotte": "613.00.38.05" },
+        { "nom": "TOURE SAYON", "contact": "626 94 83 72", "flotte": "613.00.38.05" }
+      ]
+    },
+
+    {
+      "region": "RÉGION ADMINISTRATIVE DE BOKE",
+      "prefecture": "PREFECTURE DE BOKE",
+      "nom": "Hôpital Régional de Boké",
+      "type": "Hôpital",
+      "responsable": "Dr Sékou Naba CAMARA",
+      "contact": "628 29 61 36",
+      "email": "sekounaba62@gmail.com",
+      "points_focaux": [
+        { "nom": "CAMARA BOUBACAR", "contact": "621 72 05 01", "flotte": "613.00.38.15" },
+        { "nom": "DOUMBOUYA IBRAHIMA SORY", "contact": "626 84 34 24", "flotte": "613.00.38.15" }
+      ]
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE BOKE",
+      "prefecture": "PREFECTURE DE GAOUAL",
+      "nom": "Hôpital Préfectoral de Gaoual",
+      "type": "Hôpital",
+      "responsable": "Dr Alimou SOW",
+      "contact": "622 01 87 33",
+      "email": "sthalimou@gmail.com",
+      "points_focaux": [
+        { "nom": "CONDE THIERNO ABDOURAHAMANE", "contact": "621 27 04 32", "flotte": "613.00.38.18" }
+      ]
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE BOKE",
+      "prefecture": "PREFECTURE DE KOUNDARA",
+      "nom": "Hôpital Préfectoral de Koundara",
+      "type": "Hôpital",
+      "responsable": "Dr Mamadou Oury Sory BARRY",
+      "contact": "627 36 43 43",
+      "email": "drbarrymo15@gmail.com",
+      "points_focaux": [
+        { "nom": "BANGOURA YAMOUSSA", "contact": "621 91 03 32", "flotte": "613.00.38.19" },
+        { "nom": "BAH MAMADOU HOUDY", "contact": "622 46 98 76", "flotte": "613.00.38.19" }
+      ]
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE BOKE",
+      "prefecture": "PREFECTURE DE BOFFA",
+      "nom": "Hôpital Préfectoral de Boffa",
+      "type": "Hôpital",
+      "responsable": "Dr Issac Kaman KOLIÉ",
+      "contact": "621 70 10 73",
+      "email": "kolieisaac50@gmail.com",
+      "points_focaux": [
+        { "nom": "SYLLA MOHAMED BEN", "contact": "627 78 00 74", "flotte": "613.00.38.17" },
+        { "nom": "BALDÉ IBRAHIMA", "contact": "627 02 81 34", "flotte": "613.00.38.17" }
+      ]
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE BOKE",
+      "prefecture": "PREFECTURE DE FRIA",
+      "nom": "Hôpital Préfectoral de Fria",
+      "type": "Hôpital",
+      "responsable": "Dr Boubacar BANGOURA",
+      "contact": "622 36 59 10",
+      "email": "drboubacar2014@gmail.com",
+      "points_focaux": [
+        { "nom": "SOUMAH ABOUBACAR", "contact": "622 76 19 38", "flotte": "613.00.38.16" }
+      ]
+    },
+
+    {
+      "region": "RÉGION ADMINISTRATIVE DE FARANAH",
+      "prefecture": "PREFECTURE DE FARANAH",
+      "nom": "Hôpital Régional de Faranah",
+      "type": "Hôpital",
+      "responsable": "Dr Ibrahima NABE",
+      "contact": "622 14 01 57",
+      "email": "ibnag2002@gmail.com",
+      "points_focaux": [
+        { "nom": "BAH OUMOU KALÉ", "contact": "620 51 51 68", "flotte": "613.00.38.10" },
+        { "nom": "CAMARA N'FAMOUSSA", "contact": "620 23 05 27", "flotte": "613.00.38.10" }
+      ]
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE FARANAH",
+      "prefecture": "PREFECTURE DE DINGUIRAYE",
+      "nom": "Hôpital Préfectoral de Dinguiraye",
+      "type": "Hôpital",
+      "responsable": "Dr Michel LAMAH",
+      "contact": "664 24 38 44",
+      "email": "michellama22@gmail.com",
+      "points_focaux": []
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE FARANAH",
+      "prefecture": "PREFECTURE DE DABOLA",
+      "nom": "Hôpital Préfectoral de Dabola",
+      "type": "Hôpital",
+      "responsable": "Dr Mouminy DIALLO",
+      "contact": "625 58 03 04",
+      "email": "mouminy1982@gmail.com",
+      "points_focaux": [
+        { "nom": "HOLIÉ CHARLES", "contact": "627 78 46 26", "flotte": "613.00.38.35" },
+        { "nom": "DIALLO AMINATA", "contact": "628 22 78 39", "flotte": "613.00.38.35" }
+      ]
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE FARANAH",
+      "prefecture": "PREFECTURE DE KISSIDOUGOU",
+      "nom": "Hôpital Préfectoral de Kissidougou",
+      "type": "Hôpital",
+      "responsable": "Dr Karanké CAMARA",
+      "contact": "628 24 18 57",
+      "email": "camarakaranke32@gmail.com",
+      "points_focaux": [
+        { "nom": "KAMANO SAA SALO", "contact": "623 81 59 82", "flotte": "613.00.38.34" }
+      ]
+    },
+
+    {
+      "region": "RÉGION ADMINISTRATIVE DE KANKAN",
+      "prefecture": "PREFECTURE DE KANKAN",
+      "nom": "Hôpital Régional de Kankan",
+      "type": "Hôpital",
+      "responsable": "Dr Fremba CAMARA",
+      "contact": "622 41 07 55",
+      "email": ["cfremba@yahoo.fr", "fremcamaya@gmail.com"],
+      "points_focaux": [
+        { "nom": "CONDÉ MAMADY OULEN", "contact": "628 94 20 88", "flotte": "613.00.38.28" }
+      ]
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE KANKAN",
+      "prefecture": "PREFECTURE DE KEROUANE",
+      "nom": "Hôpital Préfectoral de Kérouané",
+      "type": "Hôpital",
+      "responsable": "Dr Antoinette TONGUINO",
+      "contact": "610 32 32 53",
+      "email": "atonguino7@gmail.com",
+      "points_focaux": [
+        { "nom": "KAMANO FARA BIO", "contact": "628 37 64 53", "flotte": "613.00.38.31" },
+        { "nom": "SIDIBE MOHAMED NAGNOUMA", "contact": "622 53 59 73", "flotte": "613.00.38.31" }
+      ]
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE KANKAN",
+      "prefecture": "PREFECTURE DE MANDIANA",
+      "nom": "Hôpital Préfectoral de Mandiana",
+      "type": "Hôpital",
+      "responsable": "Dr Ibrahima DOUMBOUYA",
+      "contact": "628 87 81 46",
+      "email": "doumbouyaibrahima@yahoo.fr",
+      "points_focaux": [
+        { "nom": "DIOUBATE MAMA", "contact": "628 19 18 39", "flotte": "613.00.38.30" }
+      ]
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE KANKAN",
+      "prefecture": "PREFECTURE DE SIGUIRI",
+      "nom": "Hôpital Préfectoral de Siguiri",
+      "type": "Hôpital",
+      "responsable": "Dr Aboubacar Sidiki DIANE",
+      "contact": "628 34 31 17",
+      "email": "aboubacardiane46@gmail.com",
+      "points_focaux": [
+        { "nom": "KEITA FAMORO", "contact": "622 05 68 42", "flotte": "613.00.38.29" },
+        { "nom": "CAMARA MANIMBA", "contact": "628 73 03 34", "flotte": "613.00.38.29" }
+      ]
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE KANKAN",
+      "prefecture": "PREFECTURE DE KOUROUSSA",
+      "nom": "Hôpital Préfectoral de Kouroussa",
+      "type": "Hôpital",
+      "responsable": "Dr Demba MARA",
+      "contact": "622 89 21 68",
+      "email": "demba1mara@gmail.com",
+      "points_focaux": [
+        { "nom": "BANGOURA AMADOU", "contact": "627 01 53 40", "flotte": "613.00.38.32" }
+      ]
+    },
+
+    {
+      "region": "RÉGION ADMINISTRATIVE DE KINDIA",
+      "prefecture": "PREFECTURE DE KINDIA",
+      "nom": "Hôpital Régional de Kindia",
+      "type": "Hôpital",
+      "responsable": "Dr Souleymane CONDE",
+      "contact": "621 55 21 03",
+      "email": "soloconde2016@gmail.com",
+      "points_focaux": [
+        { "nom": "BAH OUMOU KALÉ", "contact": "620 51 51 68", "flotte": "613.00.38.10" },
+        { "nom": "CAMARA N'FAMOUSSA", "contact": "620 23 05 27", "flotte": "613.00.38.10" }
+      ]
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE KINDIA",
+      "prefecture": "PREFECTURE DE DUBREKA",
+      "nom": "Hôpital Préfectoral de Dubréka",
+      "type": "Hôpital",
+      "responsable": "Dr Sekou BAKAYOKO",
+      "contact": "623 20 54 89",
+      "email": "sekoubakayoko70@gmail.com",
+      "points_focaux": [
+        { "nom": "BAKAYOKO YAYA", "contact": "622 94 91 63", "flotte": "613.00.38.11" },
+        { "nom": "CAMARA KADIATOU FS", "contact": "623 14 54 12", "flotte": "613.00.38.11" }
+      ]
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE KINDIA",
+      "prefecture": "PREFECTURE DE FORECARIAH",
+      "nom": "Hôpital Préfectoral de Forécariah",
+      "type": "Hôpital",
+      "responsable": "Dr Mamadou Daouda CAMARA",
+      "contact": "628 87 35 16",
+      "email": "cmamadoud@gmail.com",
+      "points_focaux": [
+        { "nom": "KASSIME AGNILA YAYA", "contact": "624 54 67 71", "flotte": "613.00.38.12" }
+      ]
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE KINDIA",
+      "prefecture": "PREFECTURE DE COYAH",
+      "nom": "Hôpital Préfectoral de Coyah",
+      "type": "Hôpital",
+      "responsable": "Dr Diarra FALIVOGUI",
+      "contact": "622 55 93 71",
+      "email": "dejfalivogui@gmail.com",
+      "points_focaux": [
+        { "nom": "BAH AISSATOU AZIZ", "contact": "628 72 76 24", "flotte": "613.00.38.13" },
+        { "nom": "SYLLA RASSYATOU", "contact": "620 87 76 44", "flotte": "613.00.38.13" }
+      ]
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE KINDIA",
+      "prefecture": "PREFECTURE DE TELIMELE",
+      "nom": "Hôpital Préfectoral de Télimélé",
+      "type": "Hôpital",
+      "responsable": "Dr Thierno Amadou SOW",
+      "contact": "621 93 93 30",
+      "email": "sowthierno086@gmail.com",
+      "points_focaux": [
+        { "nom": "DIALLO MAMADOU MOUSSA", "contact": "623 41 52 50", "flotte": "613.00.38.14" },
+        { "nom": "CONDÉ SÉKOU", "contact": "621 65 25 22", "flotte": "613.00.38.14" }
+      ]
+    },
+
+    {
+      "region": "RÉGION ADMINISTRATIVE DE LABÉ",
+      "prefecture": "PREFECTURE DE LABÉ",
+      "nom": "Hôpital Régional de Labé",
+      "type": "Hôpital",
+      "responsable": "Dr Kaba CONDE",
+      "contact": "621 37 60 10",
+      "email": "nagnalenkaba72@gmail.com",
+      "points_focaux": [
+        { "nom": "DIALLO MAMADOU HAWA", "contact": "625 08 29 32", "flotte": "613.00.38.23" },
+        { "nom": "BALDE KHADIDIATOU", "contact": "620 07 53 26", "flotte": "613.00.38.23" }
+      ]
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE LABÉ",
+      "prefecture": "PREFECTURE DE KOUBIA",
+      "nom": "Hôpital Préfectoral de Koubia",
+      "type": "Hôpital",
+      "responsable": "Dr Ibrahima Mariama BARRY",
+      "contact": "628 39 69 88",
+      "email": "toubarry@yahoo.com",
+      "points_focaux": [
+        { "nom": "BAH AISSATOU", "contact": "625 87 22 28", "flotte": "613.00.38.25" }
+      ]
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE LABÉ",
+      "prefecture": "PREFECTURE DE TOUGUE",
+      "nom": "Hôpital Préfectoral de Tougué",
+      "type": "Hôpital",
+      "responsable": "Dr Ahmadou Bailo BALDE",
+      "contact": "662 32 99 10",
+      "email": "baldedourek78@gmail.com",
+      "points_focaux": [
+        { "nom": "SOW MAMADOU MOUSSA", "contact": "620 13 15 54", "flotte": "613.00.38.27" }
+      ]
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE LABÉ",
+      "prefecture": "PREFECTURE DE MALI",
+      "nom": "Hôpital Préfectoral de Mali",
+      "type": "Hôpital",
+      "responsable": "Dr Frédéric HABA",
+      "contact": "621 28 93 02",
+      "email": "frederichaba1969@gmail.com",
+      "points_focaux": [
+        { "nom": "TOURE MAMADOU DIAN", "contact": "620 29 12 23", "flotte": "613.00.38.26" }
+      ]
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE LABÉ",
+      "prefecture": "PREFECTURE DE LELOUMA",
+      "nom": "Hôpital Préfectoral de Lélouma",
+      "type": "Hôpital",
+      "responsable": "Dr Alpha Oumar BARRY",
+      "contact": "620 39 69 08",
+      "email": "phadjobary@gmail.com",
+      "points_focaux": [
+        { "nom": "DIALLO MAMADOU MOUCTAR", "contact": "628 78 17 79", "flotte": "613.00.38.24" },
+        { "nom": "LOUA BERNARD", "contact": "622 38 12 06", "flotte": "613.00.38.24" }
+      ]
+    },
+
+    {
+      "region": "RÉGION ADMINISTRATIVE DE MAMOU",
+      "prefecture": "PREFECTURE DE MAMOU",
+      "nom": "Hôpital Régional de Mamou",
+      "type": "Hôpital",
+      "responsable": "Dr Mamadou Siradjou BARRY",
+      "contact": "627 90 60 58",
+      "email": "siradjou73s@gmail.com",
+      "points_focaux": [
+        { "nom": "BARRY ABDOULAYE 2", "contact": "622 93 42 03", "flotte": "613.00.38.20" }
+      ]
+    },
+    
+    {
+      "region": "RÉGION ADMINISTRATIVE DE MAMOU",
+      "prefecture": "PREFECTURE DE PITA",
+      "nom": "Hôpital Préfectoral de Pita",
+      "type": "Hôpital",
+      "responsable": "Dr Mamadou Oury BARRY",
+      "contact": "628 44 13 51",
+      "email": "barry.mamadououry@gmail.com",
+      "points_focaux": [
+        { "nom": "BARRY MAMADOU ALIOU", "contact": "626 04 39 41", "flotte": "613.00.38.22" },
+        { "nom": "DOUMBOUYA SORY BINTA", "contact": "621 49 76 12", "flotte": "613.00.38.22" }
+      ]
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE MAMOU",
+      "prefecture": "PREFECTURE DE DALABA",
+      "nom": "Hôpital Préfectoral de Dalaba",
+      "type": "Hôpital",
+      "responsable": "Dr Mody Malal DIALLO",
+      "contact": "628 27 34 72",
+      "email": "drmalal125@gmail.com",
+      "points_focaux": [
+        { "nom": "DIALLO ELHADJ AMADOU", "contact": "620 12 96 76", "flotte": "613.00.38.21" }
+      ]
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE NZEREKORE",
+      "prefecture": "PREFECTURE DE NZEREKORE",
+      "nom": "Hôpital Régional de Nzérékoré",
+      "type": "Hôpital",
+      "responsable": "Dr Kaba Keita",
+      "contact": "623 49 46 57",
+      "email": "wacekabakeita@gmail.com",
+      "points_focaux": [
+        { "nom": "SIDIBE YOUSSOUF", "contact": "622 10 35 64", "flotte": "613.00.38.37" },
+        { "nom": "LOUA PASCAL", "contact": "620 70 39 79", "flotte": "613.00.38.37" }
+      ]
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE NZEREKORE",
+      "prefecture": "PREFECTURE DE MACENTA",
+      "nom": "Hôpital Préfectoral de Macenta",
+      "type": "Hôpital",
+      "responsable": "Dr Benoît Molou Koivogui",
+      "contact": "626 67 58 02",
+      "email": "benoithelene8@gmail.com",
+      "points_focaux": [
+        { "nom": "CAMARA AMADOU", "contact": "610 53 05 24", "flotte": "613.00.38.38" },
+        { "nom": "KOVA GUILAVOGUI", "contact": "629 07 04 71", "flotte": "613.00.38.38" }
+      ]
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE NZEREKORE",
+      "prefecture": "PREFECTURE DE GUECKEDOU",
+      "nom": "Hôpital Préfectoral de Guéckédou",
+      "type": "Hôpital",
+      "responsable": "Dr Moussa KOLIE",
+      "contact": "621 57 88 00",
+      "email": "koliemoussa@gmail.com",
+      "points_focaux": [
+        { "nom": "KOIVOGUI BARÉ", "contact": "625 53 53 18", "flotte": "613.00.38.39" },
+        { "nom": "CAMARA ALY", "contact": "621 45 88 88", "flotte": "613.00.38.39" }
+      ]
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE NZEREKORE",
+      "prefecture": "PREFECTURE DE LOLA",
+      "nom": "Hôpital Préfectoral de Lola",
+      "type": "Hôpital",
+      "responsable": "Dr SOUMAH Ibrahima",
+      "contact": "656 50 25 42",
+      "email": "bountourabisoumah2008@gmail.com",
+      "points_focaux": [
+        { "nom": "GUILAVOGUI JOSEPH PEVE", "contact": "624 90 96 45", "flotte": "613.00.38.40" }
+      ]
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE NZEREKORE",
+      "prefecture": "PREFECTURE DE YOMOU",
+      "nom": "Hôpital Préfectoral de Yomou",
+      "type": "Hôpital",
+      "responsable": "Dr Gomou Nyanga",
+      "contact": "620 10 37 01",
+      "email": "nyangagoumou84@gmail.com",
+      "points_focaux": [
+        { "nom": "SYLLA PAPA YOUNOUSSA", "contact": "611 23 46 73", "flotte": "613.00.38.41" },
+        { "nom": "DIALLO MOHAMED", "contact": "610 49 38 47", "flotte": "613.00.38.41" }
+      ]
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE NZEREKORE",
+      "prefecture": "PREFECTURE DE BEYLA",
+      "nom": "Hôpital Préfectoral de Beyla",
+      "type": "Hôpital",
+      "responsable": "Dr Amara SACKO",
+      "contact": "628 10 64 88",
+      "email": "dramarasacko@gmail.com",
+      "points_focaux": [
+        { "nom": "CAMARA KEJAN", "contact": "628 35 06 64", "flotte": "613.00.38.42" }
+      ]
+    }
+  ]
+}
