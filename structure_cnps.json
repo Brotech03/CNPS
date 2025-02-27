@@ -11,7 +11,9 @@
       "points_focaux": [
         { "nom": "DIALLO KADIATOU BOBO", "contact": "628 78 20 32", "flotte": "613.00.38.01" },
         { "nom": "ZOKOPE DORE", "contact": "621 89 59 94", "flotte": "613.00.38.01" }
-      ]
+      ],
+     "latitude": 9.535581, 
+     "longitude": -13.683914
     },
     {
       "region": "RÉGION ADMINISTRATIVE DE CONAKRY",
@@ -90,7 +92,9 @@
       "points_focaux": [
         { "nom": "CAMARA MOHAMED LAMINE YANKA", "contact": "623 44 62 66", "flotte": "613.00.38.09" },
         { "nom": "SIDIBE HAWA", "contact": "628 77 81 89", "flotte": "613.00.38.09" }
-      ]
+      ],
+     "latitude": 9.507302, 
+     "longitude": -13.704858
     },
     {
       "region": "RÉGION ADMINISTRATIVE DE CONAKRY",
