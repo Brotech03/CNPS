@@ -1,0 +1,99 @@
+{
+  "medecins_conseils": [
+    {
+      "region": "RÉGION DE BOKÉ",
+      "medecins": [
+        {
+          "nom": "Dr DOUMBOUYA MOHAMED",
+          "contact": "628 49 70 58",
+          "flotte": "613.00.38.55"
+        }
+      ]
+    },
+    {
+      "region": "RÉGION DE KINDIA",
+      "medecins": [
+        {
+          "nom": "Dr KALLO MOHAMED",
+          "contact": "620 19 86 22",
+          "flotte": "613.00.38.54"
+        }
+      ]
+    },
+    {
+      "region": "RÉGION DE MAMOU",
+      "medecins": [
+        {
+          "nom": "Dr DIALLO THIERNO YAYA",
+          "contact": "628 85 57 27",
+          "flotte": "613.00.38.56"
+        }
+      ]
+    },
+    {
+      "region": "RÉGION DE LABÉ",
+      "medecins": [
+        {
+          "nom": "Dr DIALLO ALPHA LAMINE",
+          "contact": "628 75 89 92",
+          "flotte": "613.00.38.57"
+        }
+      ]
+    },
+    {
+      "region": "RÉGION DE KANKAN",
+      "medecins": [
+        {
+          "nom": "Dr KANTÉ KABINÈ",
+          "contact": "625 21 50 65",
+          "flotte": "613.00.38.58"
+        }
+      ]
+    },
+    {
+      "region": "RÉGION DE FARANAH",
+      "medecins": [
+        {
+          "nom": "Dr KPOGOMOU ANDRÉ",
+          "contact": "628 40 43 80",
+          "flotte": "613.00.38.59"
+        }
+      ]
+    },
+    {
+      "region": "RÉGION DE N'ZÉRÉKORÉ",
+      "medecins": [
+        {
+          "nom": "Dr KOLIÉ JACQUES SÉRAPHIN",
+          "contact": "628 52 58 11",
+          "flotte": "613.00.38.60"
+        }
+      ]
+    },
+    {
+      "region": "ZONE SPÉCIALE DE CONAKRY",
+      "medecins": [
+        {
+          "nom": "Dr SYLLA HAROUNA",
+          "contact": "622 50 14 78",
+          "flotte": "613.00.38.50"
+        },
+        {
+          "nom": "Dr DIAWARA MOHAMED ALBERT",
+          "contact": "620 39 41 03",
+          "flotte": "613.00.38.51"
+        },
+        {
+          "nom": "Dr DOUMBOUYA MOHAMED",
+          "contact": "628 49 70 58",
+          "flotte": "613.00.38.52"
+        },
+        {
+          "nom": "Dr DIALLO OUMOU",
+          "contact": "62110 12 74",
+          "flotte": "613.00.38.53"
+        }
+      ]
+    }
+  ]
+}
