@@ -99,6 +99,17 @@
     {
       "region": "RÉGION ADMINISTRATIVE DE CONAKRY",
       "commune": "COMMUNE DE KALOUM",
+      "nom": "Agence CNPS Kaloum",
+      "type": "Agence",
+      "responsable": "Le responsable de la gestion des clients",
+      "contact": "627 084 917",
+      "email": "Contact@prevoyancesociale.gov.gn",
+     "latitude":  9.31301, 
+     "longitude": -13.414929
+    },
+    {
+      "region": "RÉGION ADMINISTRATIVE DE CONAKRY",
+      "commune": "COMMUNE DE KALOUM",
       "nom": "Cabinet Medical d'Ophtalmologie Dr DIANE",
       "type": "Clinique Privée",
       "responsable": "Dr Mohamed Habib DIANE",
