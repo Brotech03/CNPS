@@ -1,0 +1,300 @@
+{
+  "pharmacies": [
+    {
+      "nom": "Nouvelle",
+      "quartier": "Coronthie",
+      "representant": "Dr Zézé GOEPOGUI",
+      "contact": "622 21 83 74",
+      "email": "nouvellecoronthie@gmail.com",
+      "region_administrative": "Conakry",
+      "commune": "Kaloum",
+      "coordonnees": {
+        "latitude": "9.5140611",
+        "longitude": "-13.7135667"
+      }
+    },
+    {
+      "nom": "Conseil",
+      "quartier": "Sans-fil",
+      "representant": "Dr Fatoumata KABA",
+      "contact": "622 24 27 10",
+      "email": "pharmacieconseilyahoo.fr",
+      "region_administrative": "Conakry",
+      "commune": "Kaloum",
+      "coordonnees": {
+        "latitude": "9.5141472",
+        "longitude": "-13.7002333"
+      }
+    },
+    {
+      "nom": "Etoile",
+      "quartier": "Almamya",
+      "representant": "Dr Fodé Oussou FOFANA",
+      "contact": "628 29 52 12",
+      "email": "fofto2000@gmail.com",
+      "region_administrative": "Conakry",
+      "commune": "Kaloum"
+    },
+    {
+      "nom": "Nouvelle",
+      "quartier": "Sandervalia",
+      "representant": "Dr. KOUYATE Aboubacar Sidiki",
+      "contact": "620 28 68 86",
+      "email": "Silaye.sk@gmail.com",
+      "region_administrative": "Conakry",
+      "commune": "Kaloum"
+    },
+    {
+      "nom": "Almi",
+      "quartier": "Soumanbossia",
+      "representant": "Dr Mouminata GUISSE",
+      "contact": "621 05 47 70",
+      "email": "pharmaciealmi224@gmail.com",
+      "region_administrative": "Conakry",
+      "commune": "Ratoma"
+    },
+    {
+      "nom": "Dougoun",
+      "quartier": "Taouyah",
+      "representant": "Dr Bassirou Dougoun DIALLO",
+      "contact": "622 41 85 84",
+      "email": "dougounbachir@gmail.com",
+      "region_administrative": "Conakry",
+      "commune": "Ratoma"
+    },
+    {
+      "nom": "Kadidi",
+      "quartier": "Nongo tady",
+      "representant": "Dr Ilyassou BAH",
+      "contact": "622 08 84 58",
+      "email": "ilassoub@yahoo.fr",
+      "region_administrative": "Conakry",
+      "commune": "Ratoma"
+    },
+    {
+      "nom": "Univers",
+      "quartier": "Hamdallaye",
+      "representant": "Dr Mamadou Bobo DIALLO",
+      "contact": "623 44 80 33",
+      "email": "bobodia2001@yahoo.fr",
+      "region_administrative": "Conakry",
+      "commune": "Ratoma"
+    },
+    {
+      "nom": "Lumière",
+      "quartier": "Wanindara T5",
+      "representant": "Dr Thierno Salimou DIALLO",
+      "contact": "629 88 21 31",
+      "email": "salimsekoumohamed2017@gmail.com",
+      "region_administrative": "Conakry",
+      "commune": "Ratoma"
+    },
+    {
+      "nom": "NOUNI",
+      "quartier": "KIPE DAADIYA",
+      "representant": "Dr Aboubacar KEITA",
+      "contact": "622 44 50 22",
+      "email": "boubakeitafr@yahoo.fr",
+      "region_administrative": "Conakry",
+      "commune": "Ratoma"
+    },
+    {
+      "nom": "STADE-NONGO",
+      "quartier": "COBAYA",
+      "representant": "Dr Diariatou Diané KOUROUMA",
+      "contact": "623 80 10 91",
+      "email": "ddiariatou@gmail.com",
+      "region_administrative": "Conakry",
+      "commune": "Ratoma"
+    },
+    {
+      "nom": "Arafela",
+      "quartier": "Kamilia",
+      "representant": "Dr Mohamed CONDE",
+      "contact": "628 97 40 38",
+      "email": "mohcondp47gmail.com",
+      "region_administrative": "Conakry",
+      "commune": "Dixin"
+    },
+    {
+      "nom": "Du Peuple",
+      "quartier": "Belle vue",
+      "representant": "Dr Sogbè KEITA",
+      "contact": "629 40 55 55",
+      "email": "skbarry10@gmail.com",
+      "region_administrative": "Conakry",
+      "commune": "Dixin"
+    },
+    {
+      "nom": "Junette",
+      "quartier": "Belle vue marché",
+      "representant": "Dr Maïmouna Toure",
+      "contact": "620 72 63 64",
+      "email": "mayejunette@gmail.com",
+      "region_administrative": "Conakry",
+      "commune": "Dixin"
+    },
+    {
+      "nom": "Diamant",
+      "quartier": "Cameroun",
+      "representant": "Dr Morissara KANDE",
+      "contact": "623 45 27 87",
+      "email": "pharmacediamant@gmail.com",
+      "region_administrative": "Conakry",
+      "commune": "Dixin"
+    },
+    {
+      "nom": "Hawa",
+      "quartier": "Lanséboudji",
+      "representant": "Dr Sory KABA",
+      "contact": "622 39 68 54",
+      "email": "kbasori@yahoo.fr",
+      "region_administrative": "Conakry",
+      "commune": "Matam"
+    },
+    {
+      "nom": "Aissatou",
+      "quartier": "Coleah Cité",
+      "representant": "Dr Mory DIAKITE",
+      "contact": "622 30 86 52",
+      "email": "morypharmadiak1@gmail.com",
+      "region_administrative": "Conakry",
+      "commune": "Matam"
+    },
+    {
+      "nom": "Mallon",
+      "quartier": "Matam",
+      "representant": "Dr Mamady KANTE",
+      "contact": "628 42 09 05",
+      "email": "",
+      "region_administrative": "Conakry",
+      "commune": "Matam"
+    },
+    {
+      "nom": "Kelety",
+      "quartier": "Yimbaya-Tanéri",
+      "representant": "Dr Sékou SYLLA",
+      "contact": "621 69 93 73",
+      "email": "drsylla76@yahoo.fr",
+      "region_administrative": "Conakry",
+      "commune": "Matoto"
+    },
+    {
+      "nom": "Tima",
+      "quartier": "Gbessia Cité 2",
+      "representant": "Dr Oumou Fadil Sano",
+      "contact": "622 53 21 68",
+      "email": "fadilsano75@yahoo.fr",
+      "region_administrative": "Conakry",
+      "commune": "Matoto"
+    },
+    {
+      "nom": "Batafond",
+      "quartier": "Lansanayah barrage",
+      "representant": "Dr Mikailou SAMPOU",
+      "contact": "622 59 74 16",
+      "email": "miksampou@yahoo.fr",
+      "region_administrative": "Conakry",
+      "commune": "Matoto"
+    },
+    {
+      "nom": "Sankoumba Diaby",
+      "quartier": "Sangoyah",
+      "representant": "Dr Safiatou DIABY",
+      "contact": "622 53 12 14",
+      "email": "safidemame@gmail.com",
+      "region_administrative": "Conakry",
+      "commune": "Matoto"
+    },
+    {
+      "nom": "NANA",
+      "quartier": "Commune Urbaine de Dalaba",
+      "representant": "Dr CAMARA Aboubacar Naby",
+      "contact": "628 41 02 99",
+      "email": "camaraanc290@gmail.com",
+      "region_administrative": "Dalaba",
+      "commune": ""
+    },
+    {
+      "nom": "SILI",
+      "quartier": "Commune Urbaine de Dalaba",
+      "representant": "Dr SOW Mamadou Aliou",
+      "contact": "628 57 84 44",
+      "email": "dsowpharmali@gmail.com",
+      "region_administrative": "Dalaba",
+      "commune": ""
+    },
+    {
+      "nom": "TEBOU",
+      "quartier": "Commune Urbaine de Pita",
+      "representant": "Dr Djenabou TEBOU BAH",
+      "contact": "628 57 12 11",
+      "email": "arlochavanel@gmail.com",
+      "region_administrative": "Pita",
+      "commune": ""
+    },
+    {
+      "nom": "MALISSADIO",
+      "quartier": "Commune Urbaine de Labé",
+      "representant": "Dr Abdoulaye SOUARE",
+      "contact": "622 85 90 03",
+      "email": "st_abdoulaye@yahoo.fr",
+      "region_administrative": "Labé",
+      "commune": ""
+    },
+    {
+      "nom": "ZALIKA",
+      "quartier": "Commune Urbaine de Tougué",
+      "representant": "Dr DIALLO Souleymane",
+      "contact": "628 57 06 02",
+      "email": "",
+      "region_administrative": "Tougé",
+      "commune": ""
+    },
+    {
+      "nom": "MAO",
+      "quartier": "Commune Urbaine Siguiri (Siguirin Koro 1)",
+      "representant": "Dr Djerassy MANSARÉ",
+      "contact": "623 87 61 44",
+      "email": "doutymansare@gmail.com",
+      "region_administrative": "Siguiri",
+      "commune": ""
+    },
+    {
+      "nom": "THEVEOL",
+      "quartier": "Nimba, Commune Urbaine Lola (Gotekoly)",
+      "representant": "Dr Emmanuel Cécé LAMAH",
+      "contact": "622 56 07 08",
+      "email": "Theveolecon@yahoo.fr",
+      "region_administrative": "Lola",
+      "commune": ""
+    },
+    {
+      "nom": "NAGNOUMA",
+      "quartier": "Commune Urbaine Kankan (Kèfina)",
+      "representant": "Dr Aboubacar Sidiki Traoré",
+      "contact": "622 12 98 24",
+      "email": "phcienagnoumakankan@gmail.com",
+      "region_administrative": "Kankan",
+      "commune": ""
+    },
+    {
+      "nom": "TOB",
+      "quartier": "Commune Urbaine Kindia (Yéolé)",
+      "representant": "Dr Thierno Oury Bah",
+      "contact": "628 26 92 55",
+      "email": "tbatop@gmail.com",
+      "region_administrative": "Kindia",
+      "commune": ""
+    },
+    {
+      "nom": "BOFFA-DAR",
+      "quartier": "Commune Urbaine Boffa (Almamya)",
+      "representant": "Dr Sékou Mariame CAMARA",
+      "contact": "621 03 43 86",
+      "email": "sekoumariama15@gmail.com",
+      "region_administrative": "Boffa",
+      "commune": ""
+    }
+  ]
+}
